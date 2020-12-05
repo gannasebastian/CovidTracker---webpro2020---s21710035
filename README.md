@@ -1,1 +1,1 @@
-# Covid Tracker - Final Project Web Programming Class 2020 - s21710035
+# Covid Tracker - by Ganna Sebastian [s21710035]
